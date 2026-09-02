@@ -17,13 +17,13 @@
 
   <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    Morshed CHAT BOT
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By Morshed Chowdhury 
   </span>
 
 </p>
@@ -32,17 +32,17 @@
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/forks/Morshed-Chowdhury/Morshed-CHAT-BOT?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/stars/Morshed-Chowdhury/Morshed-CHAT-BOT?style=for-the-badge" alt="Stars">
 
   <!-- ⭐ Fork Views -->
-  <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+  <img src="https://komarev.com/ghpvc/?username=Morshed-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
 
 
   <!-- ⭐ Original Repository -->
-  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
+  <a href="https://github.com/Morshed-Chowdhury/Morshed-CHAT-BOT">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
 
@@ -102,12 +102,12 @@ Click the image above to watch the step-by-step tutorial on YouTube.
 <p align="center">
 
   <!-- ⭐ Fork Button -->
-  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/fork">
+  <a href="https://github.com/Morshed-Chowdhury/Morshed-CHAT-BOT/fork">
     <img src="https://img.shields.io/badge/FORK%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo">
   </a>
 
   <!-- ⭐ Import Button -->
-  <a href="https://github.com/new/import?source=https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
+  <a href="https://github.com/new/import?source=https://github.com/Morshed-Chowdhury/Morshed-CHAT-BOT">
     <img src="https://img.shields.io/badge/IMPORT%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Import Repo">
   </a>
 
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
+**Name:** `Morshed Chowdhury`  
+**Nice Name:** `Mor shed`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `KHAGRACHARI, BANGLADESH`
+**Location:** `Cox,s bazar, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801872750034)
+- **Facebook:** [Profile Me](https://www.facebook.com/profile.php?id=61593601607348)
+- **Messenger:** [Message Me](https://www.facebook.com/profile.php?id=61593601607348)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
@@ -183,10 +183,10 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801872750034?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100044713412032">
+  <a href="https://www.facebook.com/profile.php?id=61593601607348">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -196,13 +196,13 @@ Please do not disturb the admin unless you have a special need. Thank you!
 ## ✨🌟 Special Thanks 🌟✨
 
 - 🚀 **Cyber Bot Team**  
-- 🧙‍♂️ **Ullash (Owner Cyber Bot Team)**
-- 🛡️ **Sujon (Admin Cyber Bot Team)**
-- 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
+- 🧙‍♂️ **Morshed (Owner Cyber Bot Team)**
+- 🛡️ **Morshed (Admin Cyber Bot Team)**
+- 🎓 **Morshed Chowdhury (Owner Morshed Academy)** 
 
 __________
 
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing Morshed 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
@@ -210,7 +210,7 @@ __________
 
 <p align="center">
   <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://wa.me/+8801872750034"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
   <a href="https://facebook.com/100044713412032"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
   <a href="https://t.me/cyber_bot01"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
   <a href="https://youtube.com/@scb-community"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
