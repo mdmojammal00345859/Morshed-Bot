@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const apiList = "https://gitlab.com/shahadat-sahu/sahu-api/-/raw/main/API.json";
+const apiList = "https://gitlab.com/Morshed-Chowdhury/Morshed-api/-/raw/main/API.json";
 
 const getMainAPI = async () => (await axios.get(apiList)).data.simsimi;
 
@@ -10,7 +10,7 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "Morshed Chowdhury",
   usePrefix: false,
-  commandCategory: "Chat",
+  commandCategory: "Chat bot",
   cooldowns: 0
 };
 
@@ -37,7 +37,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
     "Assalamualaikum": "Walaikumassalam❤️‍🩹",
-    "fork": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git",
+    "fork": "https://github.com/Morshed-Chowdhury/Morshed-CHAT-BOT.git",
     "kiss me": "তুমি পঁচা তোমাকে কিস দিবো না 🤭",
     "thanks": "এতো ধন্যবাদ না দিয়ে আমার বস মোরশেদ রে তোর গার্লফ্রেন্ড টা দিয়ে দে..!🐸🥵",
     "i love you": "মেয়ে হলে আমার বস মোরশেদ এর ইনবক্সে এখুনি গুঁতা দিন🫢😻",
