@@ -2,7 +2,7 @@ module.exports.config = {
  name: "profile",
  version: "1.0.2",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "Morshed Chowdhury",
  description: "Get Facebook UID and profile links",
  commandCategory: "utility",
  cooldowns: 5
@@ -33,11 +33,11 @@ module.exports.run = async function({ event, api, args }) {
  
  const message = {
  body: `╔══════════❖🌺❖══════════╗
-║ 👤 𝐍𝐚𝐦𝐞 : ${name}
+║ 👤 𝐍𝐚𝐦𝐞 : ${Morshed}
 ║ 🆔 𝐔𝐬𝐞𝐫 𝐔𝐈𝐃 : ${uid}
 ║ 🔗 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐋𝐢𝐧𝐤 :
 ║ m.me/${uid}
-║ 🌐 𝐅𝐁 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : 
+║ 🌐 𝐅𝐁 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : https://www.facebook.com/profile.php?id=61593601607348
 ║ fb.com/${uid}
 ╚══════════❖🌺❖══════════╝`,
  attachment: fs.createReadStream(path)
