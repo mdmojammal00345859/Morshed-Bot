@@ -7,7 +7,7 @@ module.exports.config = {
  name: "admin",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "Morshed Chowdhury",
  description: "Show Owner Info",
  commandCategory: "info",
  usages: "admin",
@@ -22,22 +22,22 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : SHAHADAT SAHU
+│👤 𝐍𝐚𝐦𝐞 : Morshed Chowdhury 
 │🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
 │🎂 𝐀𝐠𝐞 : 18+
 │🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
-│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Khagrachori 
+│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2024)
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Cox,s Bazar  
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/Uhasbbz
+│https://www.facebook.com/profile.php?id=61593601607348
 │💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│https://wa.me/01882333052
+│https://wa.me/01872750034
 └───────────────⭓
 
 ┌───────────────⭓
